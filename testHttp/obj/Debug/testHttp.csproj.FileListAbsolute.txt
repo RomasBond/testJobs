@@ -1,0 +1,13 @@
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\testHttp.exe.config
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\testHttp.exe
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\testHttp.pdb
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\EntityFramework.dll
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\EntityFramework.xml
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bonda\source\repos\testHttp\testHttp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bonda\source\repos\testHttp\testHttp\obj\Debug\testHttp.csproj.CoreCompileInputs.cache
+C:\Users\bonda\source\repos\testHttp\testHttp\obj\Debug\testHttp.csproj.CopyComplete
+C:\Users\bonda\source\repos\testHttp\testHttp\obj\Debug\testHttp.exe
+C:\Users\bonda\source\repos\testHttp\testHttp\obj\Debug\testHttp.pdb
